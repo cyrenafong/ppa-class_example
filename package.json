@@ -1,0 +1,21 @@
+{
+  "name": "dhgs-ppa-class_example",
+  "version": "1.0.0",
+  "description": "aaaa",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "google-translate-api-x": "^10.6.7",
+    "obniz": "^3.27.0",
+    "openai": "^4.4.0"
+  },
+  "devDependencies": {}
+}
