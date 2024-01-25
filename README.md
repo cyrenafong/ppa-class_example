@@ -1,3 +1,2 @@
-# dhgs-ppa-class_example
+# ppa-class_example
 
-aaaa
